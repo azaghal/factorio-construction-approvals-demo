@@ -24,7 +24,7 @@ Videos
 ------
 
 <video>
-  <source src="videos/00-full_demonstration.webm")
+  <source src="videos/00-full_demonstration.webm">
 </video>
 
 
