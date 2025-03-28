@@ -23,7 +23,9 @@ Screenshots
 Videos
 ------
 
-![Full demonstration](videos/00-full_demonstration.webm)
+<video>
+  <source src="videos/00-full_demonstration.webm")
+</video>
 
 
 License
