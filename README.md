@@ -23,7 +23,7 @@ Screenshots
 Videos
 ------
 
-<video controls style="max-width: 720px;">
+<video controls style="max-width: 100%;">
   <source src="videos/00-full_demonstration.webm"/>
 </video>
 
